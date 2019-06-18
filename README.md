@@ -24,7 +24,9 @@ Aynı zamanda Anadolu Üniversitesi İşletme Bölümünde lisans eğitimi görm
 ![](/images/2.png)
 
 ## İLETİŞİM
-/play sexyback
+
+
+/play dangerzone
 
 :email: mailto:alpyts@gmail.com
 
