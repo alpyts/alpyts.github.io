@@ -21,9 +21,14 @@ Aynı zamanda Anadolu Üniversitesi İşletme Bölümünde lisans eğitimi görm
 2. Gayrimenkul Değerleme Yöntemine karar verilmesi.
 3. Yapılan analiz ve sonuçların rapor formatına getirilmesi.
 
+![](/images/2.png)
 
+## İLETİŞİM
+/play sexyback
 
+:email: mailto:alpyts@gmail.com
 
+:point_up_2:
 ```python
 
 ```
