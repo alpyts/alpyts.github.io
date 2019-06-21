@@ -28,7 +28,7 @@ Aynı zamanda Anadolu Üniversitesi İşletme Bölümünde lisans eğitimi görm
 
 /play dangerzone
 
-:email: mailto:alpyts@gmail.com
+:email: alpyts@gmail.com
 
 :point_up_2:
 ```python
